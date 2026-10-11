@@ -9,7 +9,7 @@ A responsive one-page website for Air, an agency specializing in branding, marke
 ## Technologies Used
 
 - **HTML5** — page markup.
-- ** SCSS (Sass)** — styles, variables, mixins, and media queries.
+- **SCSS (Sass)** — styles, variables, mixins, and media queries.
 - **CSS Flexbox and Grid** — element layout and responsive grids.
 - **JavaScript** — mobile menu, slider, and form processing.
 - **Parcel** — project build and local development server.
